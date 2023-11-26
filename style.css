@@ -1,0 +1,31 @@
+#title{
+    color: red;
+    display:flex;
+    justify-content: center;
+}
+.row{
+    box-sizing: border-box;
+}
+#row1{
+    display: flex;
+    justify-content:center;
+}
+#row2{
+    display: flex;
+    justify-content:center;
+}
+#row3{
+    display: flex;
+    justify-content:center;
+}
+.A{
+  background: yellow;
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    color: blue;
+}
+.A:hover{
+    background: yellowgreen;
+    cursor: pointer;
+}
